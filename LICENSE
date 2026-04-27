@@ -14,9 +14,15 @@ specifically:
 
 Files vendored from upstream (the Pimoroni Tufty 2350 firmware build,
 Pimoroni-authored Python modules under modules/common/, MicroPython,
-btstack, Pico SDK, Departure Mono PPF font assets, and any other
-third-party code) retain their original licences.  See the README for
-attribution and per-component licence pointers.
+btstack, Pico SDK, and any other third-party code) retain their
+original licences.  See the README for attribution and per-component
+licence pointers.
+
+The PPF assets at romfs/fonts/departure_{11,22}.ppf are derivatives
+of Departure Mono v1.500 (Copyright 2022-2024 Helena Zhang,
+helenazhang.com), licensed under the SIL Open Font License 1.1.
+The full OFL text is bundled at romfs/fonts/DepartureMono-LICENSE.txt
+per OFL §3.
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
