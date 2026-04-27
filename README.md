@@ -41,7 +41,7 @@ the badge, and the brewing UI is the application.
 
 Pre-built UF2s are produced on every push by GitHub Actions.  Pick one from
 [the Actions tab](https://github.com/zestuart/tessera/actions/workflows/micropython.yml)
-on the `m6.5-dual-central` branch, or build from source (below).
+on the `main` branch, or build from source (below).
 
 To flash:
 
@@ -91,7 +91,7 @@ Anything not listed here is upstream Pimoroni / MicroPython / Pico SDK / btstack
 ```
 git clone --recurse-submodules https://github.com/zestuart/tessera.git
 cd tessera
-git checkout m6.5-dual-central
+git checkout main
 ci/micropython.sh
 ```
 

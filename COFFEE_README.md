@@ -1,6 +1,6 @@
 # Patched Tufty 2350 firmware — coffee / dual-central edition
 
-This branch (`m6.5-dual-central` on `zestuart/tufty2350`) is a fork of
+This branch (`main` on `zestuart/tufty2350`) is a fork of
 [`pimoroni/tufty2350`](https://github.com/pimoroni/tufty2350) carrying
 two patches plus a frozen MicroPython app, used to drive a live
 brew-display from a Bookoo Mini Coffee Scale and a Bookoo Espresso
