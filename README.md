@@ -38,7 +38,7 @@ the badge, and the brewing UI is the application.
 
 - Pimoroni Tufty 2350 badge — RP2350, 2.8" 320×240 IPS LCD, CYW43439 radio.
 - Bookoo Mini Coffee Scale — Bluetooth-enabled gravimetric scale.
-- Bookoo Espresso Monitor — pressure / flow sensor that clamps onto an espresso machine's brew head.  Optional — without it, the badge still shows mass + timer.
+- Bookoo Espresso Monitor — pressure sensor.
 
 ## Quick start
 
