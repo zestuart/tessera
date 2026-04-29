@@ -1,5 +1,7 @@
 # Tessera
 
+<img width="2532" height="1980" alt="IMG_4889" src="https://github.com/user-attachments/assets/7fa9636b-e9bf-41d6-9cb5-9c1548d12e4a" />
+
 
 A live brew display for the [Pimoroni Tufty 2350](https://shop.pimoroni.com/products/tufty-2350)
 badge.  Connects via Bluetooth Low Energy to a [Bookoo Mini Coffee Scale](https://bookoocoffee.com/)
